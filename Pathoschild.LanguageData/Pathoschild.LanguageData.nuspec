@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Pathoschild.LanguageData</id>
+    <version>0.1.0</version>
+    <authors>Jesse Plamondon-Willard</authors>
+    <description>A C# view of the Unicode CLDR database of the world's languages, for use in other packages. This library currently provides a complete view of pluralisation rules. See the project page for details.</description>
+    <licenseUrl>https://creativecommons.org/licenses/by/3.0/</licenseUrl>
+    <projectUrl>https://github.com/Pathoschild/LanguageData#readme</projectUrl>
+    <iconUrl>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Noun_project_3067.svg/128px-Noun_project_3067.svg.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+  </metadata>
+</package>

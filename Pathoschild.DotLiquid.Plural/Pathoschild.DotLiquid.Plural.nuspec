@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>Pathoschild.DotLiquid.Plural</id>
+    <version>0.1.0</version>
+    <authors>Jesse Plamondon-Willard</authors>
+    <description>A DotLiquid filter which lets you pluralise messages in any of the 182 languages defined in the Unicode CLDR, including languages with more than two plural forms. For example, you can use "{{ message_count | plural:'message', 'messages' }}" in templates.</description>
+    <licenseUrl>https://creativecommons.org/licenses/by/3.0/</licenseUrl>
+    <projectUrl>https://github.com/Pathoschild/LanguageData#readme</projectUrl>
+    <iconUrl>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Noun_project_3067.svg/128px-Noun_project_3067.svg.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <dependencies>
+       <dependency id="DotLiquid" />
+       <dependency id="Pathoschild.LanguageData" />
+  </dependencies>
+  </metadata>
+</package>
